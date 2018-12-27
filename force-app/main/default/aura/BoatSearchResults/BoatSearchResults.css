@@ -1,0 +1,6 @@
+.THIS.layItem {
+    position:relative;
+    display: inline-block;
+    width: 25%;
+    margin-bottom: 10px;
+}

@@ -1,0 +1,20 @@
+<aura:component controller="BoatSearchFormApex" implements="lightning:actionOverride,flexipage:availableForRecordHome,force:hasRecordId" access="global" >
+    <aura:handler name="init" value="{!this}" action="{!c.doInit}" />
+    <aura:attribute name="types" type='String[]' default='All'/>
+    <aura:attribute name="renderNew" type="Boolean" default="true"/>
+    
+    <lightning:layout horizontalAlign="center" verticalAlign="end">
+        <lightning:select aura:id="types" name="types" variant="label-hidden" label="">
+            <option value="allTypesValue">All Types</option>
+            <aura:iteration items="{!v.types}" var="type">
+                <option value="{!type.Id}">{!type.Name}</option>
+            </aura:iteration>
+		</lightning:select>
+        &nbsp;&nbsp;&nbsp;&nbsp;
+            
+        <lightning:button variant="brand" label="Search"/>
+        <aura:if isTrue="{!v.renderNew}">
+            <lightning:button variant="neutral" aura:id="button" label="New" onclick="{!c.newBoat}" />
+        </aura:if>
+    </lightning:layout>
+</aura:component>
