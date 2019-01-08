@@ -1,0 +1,3 @@
+<aura:event type="APPLICATION" description="Search Filter (from 1st cmp to 2d)">
+    <aura:attribute name="eventAttribute" type="String"/>
+</aura:event>

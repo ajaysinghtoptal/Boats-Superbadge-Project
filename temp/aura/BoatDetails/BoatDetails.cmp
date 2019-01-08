@@ -1,0 +1,37 @@
+<aura:component implements="flexipage:availableForAllPageTypes" access="global">
+    <aura:attribute name="boat" type="Boat__c"/>
+    <aura:attribute name="id" type="Id" default="" access="public"/>
+    <aura:attribute name="selTabId" type="String" />
+    
+    <aura:handler event="c:BoatSelected" action="{!c.onBoatSelected}"/>
+    <aura:handler name="boatReviewAdded" event="c:BoatReviewAdded" action="{!c.onBoatReviewAdded}" phase="capture" />
+    
+    <force:recordData aura:id="service"
+                  recordId="{!v.id}"
+                  mode="VIEW"
+                  targetFields="{!v.boat}"
+                  fields="Id, Name, Description__c, Price__c, Length__c, Contact__r.Name, Contact__r.Email, Contact__r.HomePhone, BoatType__r.Name, Picture__c" />
+    
+    <aura:if isTrue="{!empty(v.boat)}">
+        <lightning:card/>
+    </aura:if>
+        
+    <aura:if isTrue="{! !empty(v.boat)}">
+    	<lightning:tabset selectedTabId="{!v.selTabId}" aura:id="details" class="roundedCorners">
+        	<lightning:tab label="DETAILS" id="details">
+                <c:BoatDetail boat="{!v.boat}"/>
+        	</lightning:tab>
+        	<lightning:tab label="REVIEWS" id="boatReviewtab">
+            	<lightning:card class="slds-p-horizontal--small" >
+            		<c:BoatReviews boat="{!v.boat}" aura:id="boatReviewCmp"/>
+            	</lightning:card>
+        	</lightning:tab>
+        	<lightning:tab label="ADD REVIEW" id="threeTab">
+            	<lightning:card class="slds-p-horizontal--small" >
+            		<c:AddBoatReview boat="{!v.boat}"/>
+            	</lightning:card>
+        	</lightning:tab>
+    	</lightning:tabset>
+    </aura:if>
+
+</aura:component>

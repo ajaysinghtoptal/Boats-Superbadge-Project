@@ -1,0 +1,2327 @@
+[
+    [
+        "C:\\Users\\utkina\\Boats\\BoatsProject\\force-app",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\utkina\\Boats\\BoatsProject\\force-app",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1545921984542,
+            "changeTime": 1545921984542,
+            "contentHash": "b28b7af69320201d1cf206ebf28373980add1451",
+            "isWorkspace": false,
+            "isArtifactRoot": true
+        }
+    ],
+    [
+        "C:\\Users\\utkina\\Boats\\BoatsProject\\force-app\\main",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\utkina\\Boats\\BoatsProject\\force-app\\main",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1545921984542,
+            "changeTime": 1545921984542,
+            "contentHash": "7505d64a54e061b7acd54ccd58b49dc43500b635",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\utkina\\Boats\\BoatsProject\\force-app\\main\\default",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\utkina\\Boats\\BoatsProject\\force-app\\main\\default",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1546969865739,
+            "changeTime": 1546969865739,
+            "contentHash": "9c8d98a62c923091d4ec3519354f1f9ab7c87be3",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\utkina\\Boats\\BoatsProject\\force-app\\main\\default\\aura",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\utkina\\Boats\\BoatsProject\\force-app\\main\\default\\aura",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1546969865859,
+            "changeTime": 1546969865859,
+            "contentHash": "a29c02d68a68307b3487d5b0f2d2d58cf76a89d9",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\utkina\\Boats\\BoatsProject\\force-app\\main\\default\\aura\\AddBoatReview",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\utkina\\Boats\\BoatsProject\\force-app\\main\\default\\aura\\AddBoatReview",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1546969865748,
+            "changeTime": 1546969865748,
+            "contentHash": "fad9196b7939e03b49be685f9a09a43b2e5385d4",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\utkina\\Boats\\BoatsProject\\force-app\\main\\default\\aura\\AddBoatReview\\AddBoatReview.cmp",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\utkina\\Boats\\BoatsProject\\force-app\\main\\default\\aura\\AddBoatReview\\AddBoatReview.cmp",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 1811,
+            "modifiedTime": 1546969865743,
+            "changeTime": 1546969865743,
+            "contentHash": "b28ebe28cdcb39db42d85abb0e1e31abe1505a77",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\utkina\\Boats\\BoatsProject\\force-app\\main\\default\\aura\\AddBoatReview\\AddBoatReview.cmp-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\utkina\\Boats\\BoatsProject\\force-app\\main\\default\\aura\\AddBoatReview\\AddBoatReview.cmp-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 228,
+            "modifiedTime": 1546969865741,
+            "changeTime": 1546969865741,
+            "contentHash": "5217b92ebc2fd18b1fa120b9e273319a153146a7",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\utkina\\Boats\\BoatsProject\\force-app\\main\\default\\aura\\AddBoatReview\\AddBoatReviewController.js",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\utkina\\Boats\\BoatsProject\\force-app\\main\\default\\aura\\AddBoatReview\\AddBoatReviewController.js",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 1953,
+            "modifiedTime": 1546969865747,
+            "changeTime": 1546969865747,
+            "contentHash": "84bc10d774130f785293ac24cd9b68095022a0a0",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\utkina\\Boats\\BoatsProject\\force-app\\main\\default\\aura\\AddBoatReview\\AddBoatReviewHelper.js",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\utkina\\Boats\\BoatsProject\\force-app\\main\\default\\aura\\AddBoatReview\\AddBoatReviewHelper.js",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 741,
+            "modifiedTime": 1546969865749,
+            "changeTime": 1546969865749,
+            "contentHash": "7c286533932f53e64fee1d1b212e2e8fa4fa8b4f",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\utkina\\Boats\\BoatsProject\\force-app\\main\\default\\aura\\BoatDetail",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\utkina\\Boats\\BoatsProject\\force-app\\main\\default\\aura\\BoatDetail",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1546969865755,
+            "changeTime": 1546969865755,
+            "contentHash": "23ccd3bd9a16d61a11063878f24905d7df83a00c",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\utkina\\Boats\\BoatsProject\\force-app\\main\\default\\aura\\BoatDetail\\BoatDetail.cmp",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\utkina\\Boats\\BoatsProject\\force-app\\main\\default\\aura\\BoatDetail\\BoatDetail.cmp",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 2371,
+            "modifiedTime": 1546969865752,
+            "changeTime": 1546969865752,
+            "contentHash": "d1f007623584e1455ebc5ff2e926f705e8029ce4",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\utkina\\Boats\\BoatsProject\\force-app\\main\\default\\aura\\BoatDetail\\BoatDetail.cmp-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\utkina\\Boats\\BoatsProject\\force-app\\main\\default\\aura\\BoatDetail\\BoatDetail.cmp-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 228,
+            "modifiedTime": 1546969865751,
+            "changeTime": 1546969865751,
+            "contentHash": "5217b92ebc2fd18b1fa120b9e273319a153146a7",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\utkina\\Boats\\BoatsProject\\force-app\\main\\default\\aura\\BoatDetail\\BoatDetail.css",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\utkina\\Boats\\BoatsProject\\force-app\\main\\default\\aura\\BoatDetail\\BoatDetail.css",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 229,
+            "modifiedTime": 1546969865753,
+            "changeTime": 1546969865753,
+            "contentHash": "b41457d4e8e1b2358cd183f237fc2ea2bc1456dd",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\utkina\\Boats\\BoatsProject\\force-app\\main\\default\\aura\\BoatDetail\\BoatDetailController.js",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\utkina\\Boats\\BoatsProject\\force-app\\main\\default\\aura\\BoatDetail\\BoatDetailController.js",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 608,
+            "modifiedTime": 1546969865754,
+            "changeTime": 1546969865754,
+            "contentHash": "66f275f8d938805d8a8b01449899a1e2305f7649",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\utkina\\Boats\\BoatsProject\\force-app\\main\\default\\aura\\BoatDetail\\BoatDetailHelper.js",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\utkina\\Boats\\BoatsProject\\force-app\\main\\default\\aura\\BoatDetail\\BoatDetailHelper.js",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 40,
+            "modifiedTime": 1546969865755,
+            "changeTime": 1546969865755,
+            "contentHash": "c3c6efda41de64b759982510d6a2c72226aa087f",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\utkina\\Boats\\BoatsProject\\force-app\\main\\default\\aura\\BoatDetails",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\utkina\\Boats\\BoatsProject\\force-app\\main\\default\\aura\\BoatDetails",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1546969865759,
+            "changeTime": 1546969865759,
+            "contentHash": "387076070712ad9ce659acaf3ac75126cd5989a0",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\utkina\\Boats\\BoatsProject\\force-app\\main\\default\\aura\\BoatDetails\\BoatDetails.cmp",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\utkina\\Boats\\BoatsProject\\force-app\\main\\default\\aura\\BoatDetails\\BoatDetails.cmp",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 1666,
+            "modifiedTime": 1546969865758,
+            "changeTime": 1546969865758,
+            "contentHash": "fe3591a20218d7461119a8c74e48a0046835f28e",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\utkina\\Boats\\BoatsProject\\force-app\\main\\default\\aura\\BoatDetails\\BoatDetails.cmp-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\utkina\\Boats\\BoatsProject\\force-app\\main\\default\\aura\\BoatDetails\\BoatDetails.cmp-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 228,
+            "modifiedTime": 1546969865757,
+            "changeTime": 1546969865757,
+            "contentHash": "5217b92ebc2fd18b1fa120b9e273319a153146a7",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\utkina\\Boats\\BoatsProject\\force-app\\main\\default\\aura\\BoatDetails\\BoatDetails.css",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\utkina\\Boats\\BoatsProject\\force-app\\main\\default\\aura\\BoatDetails\\BoatDetails.css",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 84,
+            "modifiedTime": 1546969865759,
+            "changeTime": 1546969865759,
+            "contentHash": "0e3c090d92bf2a8ff72a1ba859ad682261b4702e",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\utkina\\Boats\\BoatsProject\\force-app\\main\\default\\aura\\BoatDetails\\BoatDetailsController.js",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\utkina\\Boats\\BoatsProject\\force-app\\main\\default\\aura\\BoatDetails\\BoatDetailsController.js",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 1057,
+            "modifiedTime": 1546969865760,
+            "changeTime": 1546969865760,
+            "contentHash": "23dda83b862116292537bb0addc016fb06058670",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\utkina\\Boats\\BoatsProject\\force-app\\main\\default\\aura\\BoatReviewAdded",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\utkina\\Boats\\BoatsProject\\force-app\\main\\default\\aura\\BoatReviewAdded",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1546969865764,
+            "changeTime": 1546969865764,
+            "contentHash": "3ef344c917328adcfe821904b9d615aa1e381940",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\utkina\\Boats\\BoatsProject\\force-app\\main\\default\\aura\\BoatReviewAdded\\BoatReviewAdded.evt",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\utkina\\Boats\\BoatsProject\\force-app\\main\\default\\aura\\BoatReviewAdded\\BoatReviewAdded.evt",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 104,
+            "modifiedTime": 1546969865764,
+            "changeTime": 1546969865764,
+            "contentHash": "2c2b9a5190edb49570d4f80d001e89997ee54e84",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\utkina\\Boats\\BoatsProject\\force-app\\main\\default\\aura\\BoatReviewAdded\\BoatReviewAdded.evt-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\utkina\\Boats\\BoatsProject\\force-app\\main\\default\\aura\\BoatReviewAdded\\BoatReviewAdded.evt-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 228,
+            "modifiedTime": 1546969865763,
+            "changeTime": 1546969865763,
+            "contentHash": "5217b92ebc2fd18b1fa120b9e273319a153146a7",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\utkina\\Boats\\BoatsProject\\force-app\\main\\default\\aura\\BoatReviews",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\utkina\\Boats\\BoatsProject\\force-app\\main\\default\\aura\\BoatReviews",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1546969865782,
+            "changeTime": 1546969865782,
+            "contentHash": "847437020faec0c808aaf30e119c5878ff1a202d",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\utkina\\Boats\\BoatsProject\\force-app\\main\\default\\aura\\BoatReviews\\BoatReviews.cmp",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\utkina\\Boats\\BoatsProject\\force-app\\main\\default\\aura\\BoatReviews\\BoatReviews.cmp",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 2940,
+            "modifiedTime": 1546969865767,
+            "changeTime": 1546969865767,
+            "contentHash": "a7a7b90c31e34ffd1dfa0397c788b190c1038078",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\utkina\\Boats\\BoatsProject\\force-app\\main\\default\\aura\\BoatReviews\\BoatReviews.cmp-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\utkina\\Boats\\BoatsProject\\force-app\\main\\default\\aura\\BoatReviews\\BoatReviews.cmp-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 228,
+            "modifiedTime": 1546969865766,
+            "changeTime": 1546969865766,
+            "contentHash": "5217b92ebc2fd18b1fa120b9e273319a153146a7",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\utkina\\Boats\\BoatsProject\\force-app\\main\\default\\aura\\BoatReviews\\BoatReviews.css",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\utkina\\Boats\\BoatsProject\\force-app\\main\\default\\aura\\BoatReviews\\BoatReviews.css",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 53,
+            "modifiedTime": 1546969865777,
+            "changeTime": 1546969865777,
+            "contentHash": "f92dd7affaa71368f4d3529186c84a06f1791af3",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\utkina\\Boats\\BoatsProject\\force-app\\main\\default\\aura\\BoatReviews\\BoatReviewsController.js",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\utkina\\Boats\\BoatsProject\\force-app\\main\\default\\aura\\BoatReviews\\BoatReviewsController.js",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 555,
+            "modifiedTime": 1546969865780,
+            "changeTime": 1546969865780,
+            "contentHash": "60c9916a71dd250448dc074f4d01155946ca7afa",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\utkina\\Boats\\BoatsProject\\force-app\\main\\default\\aura\\BoatReviews\\BoatReviewsHelper.js",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\utkina\\Boats\\BoatsProject\\force-app\\main\\default\\aura\\BoatReviews\\BoatReviewsHelper.js",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 596,
+            "modifiedTime": 1546969865785,
+            "changeTime": 1546969865785,
+            "contentHash": "9cfffa654a82d25f67d6dc02c56a78453db4cffc",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\utkina\\Boats\\BoatsProject\\force-app\\main\\default\\aura\\BoatSearch",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\utkina\\Boats\\BoatsProject\\force-app\\main\\default\\aura\\BoatSearch",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1546969865790,
+            "changeTime": 1546969865790,
+            "contentHash": "20a8991ffa0671a834038c735abc53bb1db0b67a",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\utkina\\Boats\\BoatsProject\\force-app\\main\\default\\aura\\BoatSearch\\BoatSearch.cmp",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\utkina\\Boats\\BoatsProject\\force-app\\main\\default\\aura\\BoatSearch\\BoatSearch.cmp",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 380,
+            "modifiedTime": 1546969865789,
+            "changeTime": 1546969865789,
+            "contentHash": "3ef99058a2f2659ece2c5c7b1a8184fc2b5b8f74",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\utkina\\Boats\\BoatsProject\\force-app\\main\\default\\aura\\BoatSearch\\BoatSearch.cmp-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\utkina\\Boats\\BoatsProject\\force-app\\main\\default\\aura\\BoatSearch\\BoatSearch.cmp-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 228,
+            "modifiedTime": 1546969865788,
+            "changeTime": 1546969865788,
+            "contentHash": "5217b92ebc2fd18b1fa120b9e273319a153146a7",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\utkina\\Boats\\BoatsProject\\force-app\\main\\default\\aura\\BoatSearch\\BoatSearchController.js",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\utkina\\Boats\\BoatsProject\\force-app\\main\\default\\aura\\BoatSearch\\BoatSearchController.js",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 310,
+            "modifiedTime": 1546969865790,
+            "changeTime": 1546969865790,
+            "contentHash": "33b70c68c2805dbe5237af6090edc783add32d1a",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\utkina\\Boats\\BoatsProject\\force-app\\main\\default\\aura\\BoatSearchForm",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\utkina\\Boats\\BoatsProject\\force-app\\main\\default\\aura\\BoatSearchForm",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1546969865797,
+            "changeTime": 1546969865797,
+            "contentHash": "72839e8ed67bdb20261e1acbdea9df85caf04738",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\utkina\\Boats\\BoatsProject\\force-app\\main\\default\\aura\\BoatSearchForm\\BoatSearchForm.cmp",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\utkina\\Boats\\BoatsProject\\force-app\\main\\default\\aura\\BoatSearchForm\\BoatSearchForm.cmp",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 1151,
+            "modifiedTime": 1546969865794,
+            "changeTime": 1546969865794,
+            "contentHash": "ac6a4fd5c5fd0f0d86df1d8728bcb657d55aa812",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\utkina\\Boats\\BoatsProject\\force-app\\main\\default\\aura\\BoatSearchForm\\BoatSearchForm.cmp-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\utkina\\Boats\\BoatsProject\\force-app\\main\\default\\aura\\BoatSearchForm\\BoatSearchForm.cmp-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 228,
+            "modifiedTime": 1546969865792,
+            "changeTime": 1546969865792,
+            "contentHash": "5217b92ebc2fd18b1fa120b9e273319a153146a7",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\utkina\\Boats\\BoatsProject\\force-app\\main\\default\\aura\\BoatSearchForm\\BoatSearchForm.css",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\utkina\\Boats\\BoatsProject\\force-app\\main\\default\\aura\\BoatSearchForm\\BoatSearchForm.css",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 46,
+            "modifiedTime": 1546969865795,
+            "changeTime": 1546969865795,
+            "contentHash": "366b6ab5c366ab5c678d548f6fb0c5060e721097",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\utkina\\Boats\\BoatsProject\\force-app\\main\\default\\aura\\BoatSearchForm\\BoatSearchFormController.js",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\utkina\\Boats\\BoatsProject\\force-app\\main\\default\\aura\\BoatSearchForm\\BoatSearchFormController.js",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 1096,
+            "modifiedTime": 1546969865796,
+            "changeTime": 1546969865796,
+            "contentHash": "02336d3079e604f99bd4946fb98cb52e77826b93",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\utkina\\Boats\\BoatsProject\\force-app\\main\\default\\aura\\BoatSearchForm\\BoatSearchFormHelper.js",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\utkina\\Boats\\BoatsProject\\force-app\\main\\default\\aura\\BoatSearchForm\\BoatSearchFormHelper.js",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 421,
+            "modifiedTime": 1546969865797,
+            "changeTime": 1546969865797,
+            "contentHash": "4cccb9343fb7fbbb2e8ba676e5f0ac6791a02485",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\utkina\\Boats\\BoatsProject\\force-app\\main\\default\\aura\\BoatSearchResults",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\utkina\\Boats\\BoatsProject\\force-app\\main\\default\\aura\\BoatSearchResults",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1546969865804,
+            "changeTime": 1546969865804,
+            "contentHash": "99175eb92259ecea07ae594327116ca7c5e180b5",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\utkina\\Boats\\BoatsProject\\force-app\\main\\default\\aura\\BoatSearchResults\\BoatSearchResults.cmp",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\utkina\\Boats\\BoatsProject\\force-app\\main\\default\\aura\\BoatSearchResults\\BoatSearchResults.cmp",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 1229,
+            "modifiedTime": 1546969865800,
+            "changeTime": 1546969865800,
+            "contentHash": "aeb3c7bbb647c99d0ae8bc8bc44bc9fb99442a16",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\utkina\\Boats\\BoatsProject\\force-app\\main\\default\\aura\\BoatSearchResults\\BoatSearchResults.cmp-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\utkina\\Boats\\BoatsProject\\force-app\\main\\default\\aura\\BoatSearchResults\\BoatSearchResults.cmp-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 228,
+            "modifiedTime": 1546969865799,
+            "changeTime": 1546969865799,
+            "contentHash": "5217b92ebc2fd18b1fa120b9e273319a153146a7",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\utkina\\Boats\\BoatsProject\\force-app\\main\\default\\aura\\BoatSearchResults\\BoatSearchResults.css",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\utkina\\Boats\\BoatsProject\\force-app\\main\\default\\aura\\BoatSearchResults\\BoatSearchResults.css",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 108,
+            "modifiedTime": 1546969865802,
+            "changeTime": 1546969865802,
+            "contentHash": "7924a56a827032049bff5c9b76265571573b4adb",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\utkina\\Boats\\BoatsProject\\force-app\\main\\default\\aura\\BoatSearchResults\\BoatSearchResultsController.js",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\utkina\\Boats\\BoatsProject\\force-app\\main\\default\\aura\\BoatSearchResults\\BoatSearchResultsController.js",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 436,
+            "modifiedTime": 1546969865803,
+            "changeTime": 1546969865803,
+            "contentHash": "45d368e84c9ccbd2b367fba1969b178142eb5c41",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\utkina\\Boats\\BoatsProject\\force-app\\main\\default\\aura\\BoatSearchResults\\BoatSearchResultsHelper.js",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\utkina\\Boats\\BoatsProject\\force-app\\main\\default\\aura\\BoatSearchResults\\BoatSearchResultsHelper.js",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 614,
+            "modifiedTime": 1546969865804,
+            "changeTime": 1546969865804,
+            "contentHash": "0c01b2db93f1e748f124959783f3fa2a1e53f40b",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\utkina\\Boats\\BoatsProject\\force-app\\main\\default\\aura\\BoatSelect",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\utkina\\Boats\\BoatsProject\\force-app\\main\\default\\aura\\BoatSelect",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1546969865807,
+            "changeTime": 1546969865807,
+            "contentHash": "9c821fdfe80734bf39815f588d70600203606d53",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\utkina\\Boats\\BoatsProject\\force-app\\main\\default\\aura\\BoatSelect\\BoatSelect.evt",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\utkina\\Boats\\BoatsProject\\force-app\\main\\default\\aura\\BoatSelect\\BoatSelect.evt",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 131,
+            "modifiedTime": 1546969865808,
+            "changeTime": 1546969865808,
+            "contentHash": "d98c50f61e6af817753a14a775b63a49b6c9900e",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\utkina\\Boats\\BoatsProject\\force-app\\main\\default\\aura\\BoatSelect\\BoatSelect.evt-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\utkina\\Boats\\BoatsProject\\force-app\\main\\default\\aura\\BoatSelect\\BoatSelect.evt-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 228,
+            "modifiedTime": 1546969865806,
+            "changeTime": 1546969865806,
+            "contentHash": "5217b92ebc2fd18b1fa120b9e273319a153146a7",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\utkina\\Boats\\BoatsProject\\force-app\\main\\default\\aura\\BoatSelected",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\utkina\\Boats\\BoatsProject\\force-app\\main\\default\\aura\\BoatSelected",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1546969865810,
+            "changeTime": 1546969865810,
+            "contentHash": "835d9a54ead9919430d6cd40a20f822ec2b5e1d5",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\utkina\\Boats\\BoatsProject\\force-app\\main\\default\\aura\\BoatSelected\\BoatSelected.evt",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\utkina\\Boats\\BoatsProject\\force-app\\main\\default\\aura\\BoatSelected\\BoatSelected.evt",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 142,
+            "modifiedTime": 1546969865810,
+            "changeTime": 1546969865810,
+            "contentHash": "ec640569161fc674497c98a369db670070f2aadb",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\utkina\\Boats\\BoatsProject\\force-app\\main\\default\\aura\\BoatSelected\\BoatSelected.evt-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\utkina\\Boats\\BoatsProject\\force-app\\main\\default\\aura\\BoatSelected\\BoatSelected.evt-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 228,
+            "modifiedTime": 1546969865809,
+            "changeTime": 1546969865809,
+            "contentHash": "5217b92ebc2fd18b1fa120b9e273319a153146a7",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\utkina\\Boats\\BoatsProject\\force-app\\main\\default\\aura\\BoatTile",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\utkina\\Boats\\BoatsProject\\force-app\\main\\default\\aura\\BoatTile",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1546969865816,
+            "changeTime": 1546969865816,
+            "contentHash": "1729f6b5ca470e8653574c590439995371427ffe",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\utkina\\Boats\\BoatsProject\\force-app\\main\\default\\aura\\BoatTile\\BoatTile.cmp",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\utkina\\Boats\\BoatsProject\\force-app\\main\\default\\aura\\BoatTile\\BoatTile.cmp",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 711,
+            "modifiedTime": 1546969865813,
+            "changeTime": 1546969865813,
+            "contentHash": "83e37823e45fd60d2bc0427ee68d31edb3455370",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\utkina\\Boats\\BoatsProject\\force-app\\main\\default\\aura\\BoatTile\\BoatTile.cmp-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\utkina\\Boats\\BoatsProject\\force-app\\main\\default\\aura\\BoatTile\\BoatTile.cmp-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 228,
+            "modifiedTime": 1546969865812,
+            "changeTime": 1546969865812,
+            "contentHash": "5217b92ebc2fd18b1fa120b9e273319a153146a7",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\utkina\\Boats\\BoatsProject\\force-app\\main\\default\\aura\\BoatTile\\BoatTile.css",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\utkina\\Boats\\BoatsProject\\force-app\\main\\default\\aura\\BoatTile\\BoatTile.css",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 514,
+            "modifiedTime": 1546969865814,
+            "changeTime": 1546969865814,
+            "contentHash": "c7449f1ed8bb5c2ba36803584a201961b1e913f2",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\utkina\\Boats\\BoatsProject\\force-app\\main\\default\\aura\\BoatTile\\BoatTileController.js",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\utkina\\Boats\\BoatsProject\\force-app\\main\\default\\aura\\BoatTile\\BoatTileController.js",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 961,
+            "modifiedTime": 1546969865815,
+            "changeTime": 1546969865815,
+            "contentHash": "52ab68b073c3e1561cab6c137e2e99dcb436f84a",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\utkina\\Boats\\BoatsProject\\force-app\\main\\default\\aura\\BoatTile\\BoatTileHelper.js",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\utkina\\Boats\\BoatsProject\\force-app\\main\\default\\aura\\BoatTile\\BoatTileHelper.js",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 6,
+            "modifiedTime": 1546969865816,
+            "changeTime": 1546969865816,
+            "contentHash": "956671a7be9738329fcf79754a9a97bddd8187e0",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\utkina\\Boats\\BoatsProject\\force-app\\main\\default\\aura\\cmp2",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\utkina\\Boats\\BoatsProject\\force-app\\main\\default\\aura\\cmp2",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1546969865862,
+            "changeTime": 1546969865862,
+            "contentHash": "af941c2687a8d2aab0916a01e1bb764abfd00255",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\utkina\\Boats\\BoatsProject\\force-app\\main\\default\\aura\\cmp2\\cmp2.cmp",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\utkina\\Boats\\BoatsProject\\force-app\\main\\default\\aura\\cmp2\\cmp2.cmp",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 41,
+            "modifiedTime": 1546969865861,
+            "changeTime": 1546969865861,
+            "contentHash": "5d674010c0337dd901ba8c5f36f19b39b90403bd",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\utkina\\Boats\\BoatsProject\\force-app\\main\\default\\aura\\cmp2\\cmp2.cmp-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\utkina\\Boats\\BoatsProject\\force-app\\main\\default\\aura\\cmp2\\cmp2.cmp-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 228,
+            "modifiedTime": 1546969865859,
+            "changeTime": 1546969865859,
+            "contentHash": "5217b92ebc2fd18b1fa120b9e273319a153146a7",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\utkina\\Boats\\BoatsProject\\force-app\\main\\default\\aura\\cmp2\\cmp2Controller.js",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\utkina\\Boats\\BoatsProject\\force-app\\main\\default\\aura\\cmp2\\cmp2Controller.js",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 61,
+            "modifiedTime": 1546969865862,
+            "changeTime": 1546969865862,
+            "contentHash": "f5b35c1946e817473181a208bc8827fedb3ee06b",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\utkina\\Boats\\BoatsProject\\force-app\\main\\default\\aura\\FiveStarRating",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\utkina\\Boats\\BoatsProject\\force-app\\main\\default\\aura\\FiveStarRating",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1546969865822,
+            "changeTime": 1546969865822,
+            "contentHash": "bafd6a324459c64dfdaa646bb8365c12c87cecab",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\utkina\\Boats\\BoatsProject\\force-app\\main\\default\\aura\\FiveStarRating\\FiveStarRating.cmp",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\utkina\\Boats\\BoatsProject\\force-app\\main\\default\\aura\\FiveStarRating\\FiveStarRating.cmp",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 589,
+            "modifiedTime": 1546969865820,
+            "changeTime": 1546969865820,
+            "contentHash": "d5e8c67add5787ee7fd22519b344c31d488b3f65",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\utkina\\Boats\\BoatsProject\\force-app\\main\\default\\aura\\FiveStarRating\\FiveStarRating.cmp-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\utkina\\Boats\\BoatsProject\\force-app\\main\\default\\aura\\FiveStarRating\\FiveStarRating.cmp-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 228,
+            "modifiedTime": 1546969865819,
+            "changeTime": 1546969865819,
+            "contentHash": "5217b92ebc2fd18b1fa120b9e273319a153146a7",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\utkina\\Boats\\BoatsProject\\force-app\\main\\default\\aura\\FiveStarRating\\FiveStarRatingController.js",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\utkina\\Boats\\BoatsProject\\force-app\\main\\default\\aura\\FiveStarRating\\FiveStarRatingController.js",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 691,
+            "modifiedTime": 1546969865822,
+            "changeTime": 1546969865822,
+            "contentHash": "5d40dff4f930a0e2cc494b8a27c5caa3a20c56a6",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\utkina\\Boats\\BoatsProject\\force-app\\main\\default\\aura\\FormSubmit",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\utkina\\Boats\\BoatsProject\\force-app\\main\\default\\aura\\FormSubmit",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1546969865825,
+            "changeTime": 1546969865825,
+            "contentHash": "8faf873dc14663cffdd0edabf164dc59c5952579",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\utkina\\Boats\\BoatsProject\\force-app\\main\\default\\aura\\FormSubmit\\FormSubmit.evt",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\utkina\\Boats\\BoatsProject\\force-app\\main\\default\\aura\\FormSubmit\\FormSubmit.evt",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 152,
+            "modifiedTime": 1546969865825,
+            "changeTime": 1546969865825,
+            "contentHash": "eed4927b1640e217c963677220b8540a9b61a5f0",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\utkina\\Boats\\BoatsProject\\force-app\\main\\default\\aura\\FormSubmit\\FormSubmit.evt-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\utkina\\Boats\\BoatsProject\\force-app\\main\\default\\aura\\FormSubmit\\FormSubmit.evt-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 228,
+            "modifiedTime": 1546969865824,
+            "changeTime": 1546969865824,
+            "contentHash": "5217b92ebc2fd18b1fa120b9e273319a153146a7",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\utkina\\Boats\\BoatsProject\\force-app\\main\\default\\aura\\FriendswithBoats",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\utkina\\Boats\\BoatsProject\\force-app\\main\\default\\aura\\FriendswithBoats",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1546969865828,
+            "changeTime": 1546969865828,
+            "contentHash": "9b2fb7f003dbfc8f1dcccf8629f03c204c01ab3d",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\utkina\\Boats\\BoatsProject\\force-app\\main\\default\\aura\\FriendswithBoats\\FriendswithBoats.app",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\utkina\\Boats\\BoatsProject\\force-app\\main\\default\\aura\\FriendswithBoats\\FriendswithBoats.app",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 236,
+            "modifiedTime": 1546969865828,
+            "changeTime": 1546969865828,
+            "contentHash": "cbb0d3d67fe1249ed12a77c8c5dcd2ee86f001e7",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\utkina\\Boats\\BoatsProject\\force-app\\main\\default\\aura\\FriendswithBoats\\FriendswithBoats.app-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\utkina\\Boats\\BoatsProject\\force-app\\main\\default\\aura\\FriendswithBoats\\FriendswithBoats.app-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 228,
+            "modifiedTime": 1546969865827,
+            "changeTime": 1546969865827,
+            "contentHash": "5217b92ebc2fd18b1fa120b9e273319a153146a7",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\utkina\\Boats\\BoatsProject\\force-app\\main\\default\\aura\\Map",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\utkina\\Boats\\BoatsProject\\force-app\\main\\default\\aura\\Map",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1546969865854,
+            "changeTime": 1546969865854,
+            "contentHash": "f02faf7ade01272b302db72c7651d02c524c8998",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\utkina\\Boats\\BoatsProject\\force-app\\main\\default\\aura\\Map\\Map.cmp",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\utkina\\Boats\\BoatsProject\\force-app\\main\\default\\aura\\Map\\Map.cmp",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 937,
+            "modifiedTime": 1546969865831,
+            "changeTime": 1546969865831,
+            "contentHash": "e9031ba58ceb629bcb6ada0c248009c4eaaaa804",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\utkina\\Boats\\BoatsProject\\force-app\\main\\default\\aura\\Map\\Map.cmp-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\utkina\\Boats\\BoatsProject\\force-app\\main\\default\\aura\\Map\\Map.cmp-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 228,
+            "modifiedTime": 1546969865830,
+            "changeTime": 1546969865830,
+            "contentHash": "43c6ca14f7cd85b7b929d871194cb6292f131f8e",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\utkina\\Boats\\BoatsProject\\force-app\\main\\default\\aura\\Map\\Map.css",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\utkina\\Boats\\BoatsProject\\force-app\\main\\default\\aura\\Map\\Map.css",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 44,
+            "modifiedTime": 1546969865832,
+            "changeTime": 1546969865832,
+            "contentHash": "23285dbe6029b9b808d37668a129fe3778b421c8",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\utkina\\Boats\\BoatsProject\\force-app\\main\\default\\aura\\Map\\Map.design",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\utkina\\Boats\\BoatsProject\\force-app\\main\\default\\aura\\Map\\Map.design",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 156,
+            "modifiedTime": 1546969865833,
+            "changeTime": 1546969865833,
+            "contentHash": "3adc4ca0cf87ed42dfa2c8626bd72af8a78ae6fe",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\utkina\\Boats\\BoatsProject\\force-app\\main\\default\\aura\\Map\\Map.svg",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\utkina\\Boats\\BoatsProject\\force-app\\main\\default\\aura\\Map\\Map.svg",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 2996,
+            "modifiedTime": 1546969865850,
+            "changeTime": 1546969865850,
+            "contentHash": "c173817b09de251d20f8a88d7aff428ff55d4683",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\utkina\\Boats\\BoatsProject\\force-app\\main\\default\\aura\\Map\\MapController.js",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\utkina\\Boats\\BoatsProject\\force-app\\main\\default\\aura\\Map\\MapController.js",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 769,
+            "modifiedTime": 1546969865852,
+            "changeTime": 1546969865852,
+            "contentHash": "7a060eb1dd15a7a70a42a6e67fdea2992d29bbca",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\utkina\\Boats\\BoatsProject\\force-app\\main\\default\\aura\\Map\\MapHelper.js",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\utkina\\Boats\\BoatsProject\\force-app\\main\\default\\aura\\Map\\MapHelper.js",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 457,
+            "modifiedTime": 1546969865853,
+            "changeTime": 1546969865853,
+            "contentHash": "1d5470032abcaf470a52e594f9f854b275545fcb",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\utkina\\Boats\\BoatsProject\\force-app\\main\\default\\aura\\Map\\MapRenderer.js",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\utkina\\Boats\\BoatsProject\\force-app\\main\\default\\aura\\Map\\MapRenderer.js",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 1463,
+            "modifiedTime": 1546969865854,
+            "changeTime": 1546969865854,
+            "contentHash": "e9d2422d3578a280714e77d8d43c4242f91a6eed",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\utkina\\Boats\\BoatsProject\\force-app\\main\\default\\aura\\PlotMapMarker",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\utkina\\Boats\\BoatsProject\\force-app\\main\\default\\aura\\PlotMapMarker",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1546969865857,
+            "changeTime": 1546969865857,
+            "contentHash": "e2427331c77818f0321c24cce2960d246f9a6c77",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\utkina\\Boats\\BoatsProject\\force-app\\main\\default\\aura\\PlotMapMarker\\PlotMapMarker.evt",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\utkina\\Boats\\BoatsProject\\force-app\\main\\default\\aura\\PlotMapMarker\\PlotMapMarker.evt",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 242,
+            "modifiedTime": 1546969865858,
+            "changeTime": 1546969865858,
+            "contentHash": "92281681e06c38b76e816c496b7900feef00825c",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\utkina\\Boats\\BoatsProject\\force-app\\main\\default\\aura\\PlotMapMarker\\PlotMapMarker.evt-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\utkina\\Boats\\BoatsProject\\force-app\\main\\default\\aura\\PlotMapMarker\\PlotMapMarker.evt-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 228,
+            "modifiedTime": 1546969865856,
+            "changeTime": 1546969865856,
+            "contentHash": "5217b92ebc2fd18b1fa120b9e273319a153146a7",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\utkina\\Boats\\BoatsProject\\force-app\\main\\default\\classes",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\utkina\\Boats\\BoatsProject\\force-app\\main\\default\\classes",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1546969865323,
+            "changeTime": 1546969865323,
+            "contentHash": "74c20d74126279c97e496256e9ca8ecffee861cc",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\utkina\\Boats\\BoatsProject\\force-app\\main\\default\\classes\\BoatReviews.cls",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\utkina\\Boats\\BoatsProject\\force-app\\main\\default\\classes\\BoatReviews.cls",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 365,
+            "modifiedTime": 1546969865308,
+            "changeTime": 1546969865308,
+            "contentHash": "f60f26439d9b27959f526399a0a6f4974b713550",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\utkina\\Boats\\BoatsProject\\force-app\\main\\default\\classes\\BoatReviews.cls-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\utkina\\Boats\\BoatsProject\\force-app\\main\\default\\classes\\BoatReviews.cls-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 174,
+            "modifiedTime": 1546969865304,
+            "changeTime": 1546969865304,
+            "contentHash": "acdd80366dfee192a19331bfa686b269d836d68a",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\utkina\\Boats\\BoatsProject\\force-app\\main\\default\\classes\\BoatSearchFormApex.cls",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\utkina\\Boats\\BoatsProject\\force-app\\main\\default\\classes\\BoatSearchFormApex.cls",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 181,
+            "modifiedTime": 1546969865318,
+            "changeTime": 1546969865318,
+            "contentHash": "4db0a0568638d2502e769013ca81ce9483000182",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\utkina\\Boats\\BoatsProject\\force-app\\main\\default\\classes\\BoatSearchFormApex.cls-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\utkina\\Boats\\BoatsProject\\force-app\\main\\default\\classes\\BoatSearchFormApex.cls-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 174,
+            "modifiedTime": 1546969865312,
+            "changeTime": 1546969865312,
+            "contentHash": "acdd80366dfee192a19331bfa686b269d836d68a",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\utkina\\Boats\\BoatsProject\\force-app\\main\\default\\classes\\BoatSearchResults.cls",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\utkina\\Boats\\BoatsProject\\force-app\\main\\default\\classes\\BoatSearchResults.cls",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 706,
+            "modifiedTime": 1546969865324,
+            "changeTime": 1546969865324,
+            "contentHash": "08e733d061abf93e11578b46a1c7fec814f73001",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\utkina\\Boats\\BoatsProject\\force-app\\main\\default\\classes\\BoatSearchResults.cls-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\utkina\\Boats\\BoatsProject\\force-app\\main\\default\\classes\\BoatSearchResults.cls-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 174,
+            "modifiedTime": 1546969865322,
+            "changeTime": 1546969865322,
+            "contentHash": "acdd80366dfee192a19331bfa686b269d836d68a",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\utkina\\Boats\\BoatsProject\\force-app\\main\\default\\flexipages",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\utkina\\Boats\\BoatsProject\\force-app\\main\\default\\flexipages",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1546969865327,
+            "changeTime": 1546969865327,
+            "contentHash": "edafcef192cda1da3196cf0b1d3e068c02c81863",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\utkina\\Boats\\BoatsProject\\force-app\\main\\default\\flexipages\\Friends_with_Boats.flexipage-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\utkina\\Boats\\BoatsProject\\force-app\\main\\default\\flexipages\\Friends_with_Boats.flexipage-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 927,
+            "modifiedTime": 1546969865328,
+            "changeTime": 1546969865328,
+            "contentHash": "d82b42f4265abf16ccddf58fc7fa4ac681d8435c",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\utkina\\Boats\\BoatsProject\\force-app\\main\\default\\layouts",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\utkina\\Boats\\BoatsProject\\force-app\\main\\default\\layouts",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1546969865341,
+            "changeTime": 1546969865341,
+            "contentHash": "8acb0aa082eeddf842faeab94288db2b2804510e",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\utkina\\Boats\\BoatsProject\\force-app\\main\\default\\layouts\\BoatReview__c-BoatReview Layout.layout-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\utkina\\Boats\\BoatsProject\\force-app\\main\\default\\layouts\\BoatReview__c-BoatReview Layout.layout-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 1995,
+            "modifiedTime": 1546969865332,
+            "changeTime": 1546969865332,
+            "contentHash": "f91d547799c8bcf4308a1c0cee9cff4b7e32b612",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\utkina\\Boats\\BoatsProject\\force-app\\main\\default\\layouts\\BoatType__c-Boat Type Layout.layout-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\utkina\\Boats\\BoatsProject\\force-app\\main\\default\\layouts\\BoatType__c-Boat Type Layout.layout-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 1947,
+            "modifiedTime": 1546969865336,
+            "changeTime": 1546969865336,
+            "contentHash": "11d783040f4136795b5cfb29705ebffa45e29dff",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\utkina\\Boats\\BoatsProject\\force-app\\main\\default\\layouts\\Boat__c-Boat Layout.layout-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\utkina\\Boats\\BoatsProject\\force-app\\main\\default\\layouts\\Boat__c-Boat Layout.layout-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 3180,
+            "modifiedTime": 1546969865341,
+            "changeTime": 1546969865341,
+            "contentHash": "f26d1c00ffd562cc3e91a6a04706d306195e825d",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\utkina\\Boats\\BoatsProject\\force-app\\main\\default\\objects",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\utkina\\Boats\\BoatsProject\\force-app\\main\\default\\objects",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1546969865417,
+            "changeTime": 1546969865417,
+            "contentHash": "3553ddb217a46192bd1518aa7d1fa7ca8920cd46",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\utkina\\Boats\\BoatsProject\\force-app\\main\\default\\objects\\BoatReview__c",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\utkina\\Boats\\BoatsProject\\force-app\\main\\default\\objects\\BoatReview__c",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1546969865362,
+            "changeTime": 1546969865362,
+            "contentHash": "e5802601dcb10ebd9c2d0292cb375eb71561a9be",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\utkina\\Boats\\BoatsProject\\force-app\\main\\default\\objects\\BoatReview__c\\BoatReview__c.object-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\utkina\\Boats\\BoatsProject\\force-app\\main\\default\\objects\\BoatReview__c\\BoatReview__c.object-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 2026,
+            "modifiedTime": 1546969865357,
+            "changeTime": 1546969865357,
+            "contentHash": "9ae9478167d5ba9746f397de495a11f665dc6d84",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\utkina\\Boats\\BoatsProject\\force-app\\main\\default\\objects\\BoatReview__c\\fields",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\utkina\\Boats\\BoatsProject\\force-app\\main\\default\\objects\\BoatReview__c\\fields",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1546969865361,
+            "changeTime": 1546969865361,
+            "contentHash": "9ea85ebe9a252e9a9700177c2aa46aad9cb0e5e3",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\utkina\\Boats\\BoatsProject\\force-app\\main\\default\\objects\\BoatReview__c\\fields\\Boat__c.field-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\utkina\\Boats\\BoatsProject\\force-app\\main\\default\\objects\\BoatReview__c\\fields\\Boat__c.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 597,
+            "modifiedTime": 1546969865358,
+            "changeTime": 1546969865358,
+            "contentHash": "abf6fb1e81dfe553c6b83dea337b84d2ad1684bd",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\utkina\\Boats\\BoatsProject\\force-app\\main\\default\\objects\\BoatReview__c\\fields\\Comment__c.field-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\utkina\\Boats\\BoatsProject\\force-app\\main\\default\\objects\\BoatReview__c\\fields\\Comment__c.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 340,
+            "modifiedTime": 1546969865360,
+            "changeTime": 1546969865360,
+            "contentHash": "7d126512e57949b4d7d7c7fbea32f1f352376bd6",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\utkina\\Boats\\BoatsProject\\force-app\\main\\default\\objects\\BoatReview__c\\fields\\Rating__c.field-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\utkina\\Boats\\BoatsProject\\force-app\\main\\default\\objects\\BoatReview__c\\fields\\Rating__c.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 385,
+            "modifiedTime": 1546969865361,
+            "changeTime": 1546969865361,
+            "contentHash": "7a2d3e407171867514eae02bdad61c1ac4c24af7",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\utkina\\Boats\\BoatsProject\\force-app\\main\\default\\objects\\BoatReview__c\\listViews",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\utkina\\Boats\\BoatsProject\\force-app\\main\\default\\objects\\BoatReview__c\\listViews",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1546969865362,
+            "changeTime": 1546969865362,
+            "contentHash": "0b3931647b535802350a588b8bf16d4ae6cc2ed6",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\utkina\\Boats\\BoatsProject\\force-app\\main\\default\\objects\\BoatReview__c\\listViews\\All.listView-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\utkina\\Boats\\BoatsProject\\force-app\\main\\default\\objects\\BoatReview__c\\listViews\\All.listView-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 204,
+            "modifiedTime": 1546969865362,
+            "changeTime": 1546969865362,
+            "contentHash": "a09136a1a46c72265bcd1de0f4a07ba06ec1e9bd",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\utkina\\Boats\\BoatsProject\\force-app\\main\\default\\objects\\BoatType__c",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\utkina\\Boats\\BoatsProject\\force-app\\main\\default\\objects\\BoatType__c",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1546969865376,
+            "changeTime": 1546969865376,
+            "contentHash": "1e51ffd8d9579a7c23e6ed3bb966df40690a9421",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\utkina\\Boats\\BoatsProject\\force-app\\main\\default\\objects\\BoatType__c\\BoatType__c.object-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\utkina\\Boats\\BoatsProject\\force-app\\main\\default\\objects\\BoatType__c\\BoatType__c.object-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 2018,
+            "modifiedTime": 1546969865376,
+            "changeTime": 1546969865376,
+            "contentHash": "e1d6094807e02a1c28ae9787fbf28321d92ce85b",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\utkina\\Boats\\BoatsProject\\force-app\\main\\default\\objects\\BoatType__c\\listViews",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\utkina\\Boats\\BoatsProject\\force-app\\main\\default\\objects\\BoatType__c\\listViews",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1546969865377,
+            "changeTime": 1546969865377,
+            "contentHash": "0b3931647b535802350a588b8bf16d4ae6cc2ed6",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\utkina\\Boats\\BoatsProject\\force-app\\main\\default\\objects\\BoatType__c\\listViews\\All.listView-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\utkina\\Boats\\BoatsProject\\force-app\\main\\default\\objects\\BoatType__c\\listViews\\All.listView-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 204,
+            "modifiedTime": 1546969865377,
+            "changeTime": 1546969865377,
+            "contentHash": "a09136a1a46c72265bcd1de0f4a07ba06ec1e9bd",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\utkina\\Boats\\BoatsProject\\force-app\\main\\default\\objects\\Boat__c",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\utkina\\Boats\\BoatsProject\\force-app\\main\\default\\objects\\Boat__c",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1546969865401,
+            "changeTime": 1546969865401,
+            "contentHash": "60f4a3a6b696cb95b1b49c17986ad2f623baeaeb",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\utkina\\Boats\\BoatsProject\\force-app\\main\\default\\objects\\Boat__c\\Boat__c.object-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\utkina\\Boats\\BoatsProject\\force-app\\main\\default\\objects\\Boat__c\\Boat__c.object-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 2017,
+            "modifiedTime": 1546969865393,
+            "changeTime": 1546969865393,
+            "contentHash": "5dddd980c968e04b7687051602471327cc11fdad",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\utkina\\Boats\\BoatsProject\\force-app\\main\\default\\objects\\Boat__c\\fields",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\utkina\\Boats\\BoatsProject\\force-app\\main\\default\\objects\\Boat__c\\fields",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1546969865400,
+            "changeTime": 1546969865400,
+            "contentHash": "042f73c63058e4f4a0dfc61eff602491a8955ac3",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\utkina\\Boats\\BoatsProject\\force-app\\main\\default\\objects\\Boat__c\\fields\\BoatType__c.field-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\utkina\\Boats\\BoatsProject\\force-app\\main\\default\\objects\\Boat__c\\fields\\BoatType__c.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 501,
+            "modifiedTime": 1546969865394,
+            "changeTime": 1546969865394,
+            "contentHash": "401a558497e6f70fe46ba9b0f9c86ed7d636875b",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\utkina\\Boats\\BoatsProject\\force-app\\main\\default\\objects\\Boat__c\\fields\\Contact__c.field-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\utkina\\Boats\\BoatsProject\\force-app\\main\\default\\objects\\Boat__c\\fields\\Contact__c.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 589,
+            "modifiedTime": 1546969865394,
+            "changeTime": 1546969865394,
+            "contentHash": "a97bde8acc6fbe695305db78360e45cc9c6905ff",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\utkina\\Boats\\BoatsProject\\force-app\\main\\default\\objects\\Boat__c\\fields\\Description__c.field-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\utkina\\Boats\\BoatsProject\\force-app\\main\\default\\objects\\Boat__c\\fields\\Description__c.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 320,
+            "modifiedTime": 1546969865396,
+            "changeTime": 1546969865396,
+            "contentHash": "30ee205b69a4eccf0f5af971cf2460542238e3f2",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\utkina\\Boats\\BoatsProject\\force-app\\main\\default\\objects\\Boat__c\\fields\\Geolocation__c.field-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\utkina\\Boats\\BoatsProject\\force-app\\main\\default\\objects\\Boat__c\\fields\\Geolocation__c.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 403,
+            "modifiedTime": 1546969865397,
+            "changeTime": 1546969865397,
+            "contentHash": "d6c1c091f4add1ff363c582709a9fa5e21e1f7fb",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\utkina\\Boats\\BoatsProject\\force-app\\main\\default\\objects\\Boat__c\\fields\\Length__c.field-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\utkina\\Boats\\BoatsProject\\force-app\\main\\default\\objects\\Boat__c\\fields\\Length__c.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 430,
+            "modifiedTime": 1546969865398,
+            "changeTime": 1546969865398,
+            "contentHash": "b20b1a302a0b82a90955e53b6889ee38bde6cbdc",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\utkina\\Boats\\BoatsProject\\force-app\\main\\default\\objects\\Boat__c\\fields\\Picture__c.field-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\utkina\\Boats\\BoatsProject\\force-app\\main\\default\\objects\\Boat__c\\fields\\Picture__c.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 307,
+            "modifiedTime": 1546969865399,
+            "changeTime": 1546969865399,
+            "contentHash": "7cd3c0cc44339863436c2ea2314a7b1013ae6e2c",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\utkina\\Boats\\BoatsProject\\force-app\\main\\default\\objects\\Boat__c\\fields\\Price__c.field-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\utkina\\Boats\\BoatsProject\\force-app\\main\\default\\objects\\Boat__c\\fields\\Price__c.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 410,
+            "modifiedTime": 1546969865400,
+            "changeTime": 1546969865400,
+            "contentHash": "cdb75d55624bb6ca23ca75e685f03348f4b9e7d3",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\utkina\\Boats\\BoatsProject\\force-app\\main\\default\\objects\\Boat__c\\fields\\Year_Built__c.field-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\utkina\\Boats\\BoatsProject\\force-app\\main\\default\\objects\\Boat__c\\fields\\Year_Built__c.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 393,
+            "modifiedTime": 1546969865401,
+            "changeTime": 1546969865401,
+            "contentHash": "bfe4b565ffc8ee4e9d37a497298c0f2331f31460",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\utkina\\Boats\\BoatsProject\\force-app\\main\\default\\objects\\Boat__c\\listViews",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\utkina\\Boats\\BoatsProject\\force-app\\main\\default\\objects\\Boat__c\\listViews",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1546969865401,
+            "changeTime": 1546969865401,
+            "contentHash": "0b3931647b535802350a588b8bf16d4ae6cc2ed6",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\utkina\\Boats\\BoatsProject\\force-app\\main\\default\\objects\\Boat__c\\listViews\\All.listView-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\utkina\\Boats\\BoatsProject\\force-app\\main\\default\\objects\\Boat__c\\listViews\\All.listView-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 204,
+            "modifiedTime": 1546969865402,
+            "changeTime": 1546969865402,
+            "contentHash": "a09136a1a46c72265bcd1de0f4a07ba06ec1e9bd",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\utkina\\Boats\\BoatsProject\\force-app\\main\\default\\objects\\Contact",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\utkina\\Boats\\BoatsProject\\force-app\\main\\default\\objects\\Contact",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1546969865417,
+            "changeTime": 1546969865417,
+            "contentHash": "70f132fe13e692866a539996a6b9a05b46076a07",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\utkina\\Boats\\BoatsProject\\force-app\\main\\default\\objects\\Contact\\fields",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\utkina\\Boats\\BoatsProject\\force-app\\main\\default\\objects\\Contact\\fields",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1546969865418,
+            "changeTime": 1546969865418,
+            "contentHash": "301f4192f4840899312b54ef2cbc9174d8e01836",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\utkina\\Boats\\BoatsProject\\force-app\\main\\default\\objects\\Contact\\fields\\Languages__c.field-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\utkina\\Boats\\BoatsProject\\force-app\\main\\default\\objects\\Contact\\fields\\Languages__c.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 370,
+            "modifiedTime": 1546969865418,
+            "changeTime": 1546969865418,
+            "contentHash": "bf772125c4e77a1bdb5997c83c7915babf266330",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\utkina\\Boats\\BoatsProject\\force-app\\main\\default\\objects\\Contact\\fields\\Level__c.field-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\utkina\\Boats\\BoatsProject\\force-app\\main\\default\\objects\\Contact\\fields\\Level__c.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 943,
+            "modifiedTime": 1546969865419,
+            "changeTime": 1546969865419,
+            "contentHash": "7ab95b0a1b0c2d75a772d9ea83361375e19db83e",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\utkina\\Boats\\BoatsProject\\force-app\\main\\default\\permissionsets",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\utkina\\Boats\\BoatsProject\\force-app\\main\\default\\permissionsets",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1546969865432,
+            "changeTime": 1546969865432,
+            "contentHash": "65f67bc8ca72717f06dc2bbbd9f9d63e8519136b",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\utkina\\Boats\\BoatsProject\\force-app\\main\\default\\permissionsets\\Boats_sets.permissionset-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\utkina\\Boats\\BoatsProject\\force-app\\main\\default\\permissionsets\\Boats_sets.permissionset-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 7199,
+            "modifiedTime": 1546969865433,
+            "changeTime": 1546969865433,
+            "contentHash": "ceac23f6ef84760f8c0918aadedeada7dcd63276",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\utkina\\Boats\\BoatsProject\\force-app\\main\\default\\staticresources",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\utkina\\Boats\\BoatsProject\\force-app\\main\\default\\staticresources",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1546969865709,
+            "changeTime": 1546969865709,
+            "contentHash": "b81f713eb48db58b9458965cc3ccceff724c2e8c",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\utkina\\Boats\\BoatsProject\\force-app\\main\\default\\staticresources\\fivestar",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\utkina\\Boats\\BoatsProject\\force-app\\main\\default\\staticresources\\fivestar",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1546969865715,
+            "changeTime": 1546969865715,
+            "contentHash": "9ee9a42b044848d10e5d0a851972d3b3d34de100",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\utkina\\Boats\\BoatsProject\\force-app\\main\\default\\staticresources\\fivestar\\rating.css",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\utkina\\Boats\\BoatsProject\\force-app\\main\\default\\staticresources\\fivestar\\rating.css",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 833,
+            "modifiedTime": 1546969865710,
+            "changeTime": 1546969865710,
+            "contentHash": "e9e1cd420990c0ce2087fa153c3bc8b64d57c7ed",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\utkina\\Boats\\BoatsProject\\force-app\\main\\default\\staticresources\\fivestar\\rating.js",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\utkina\\Boats\\BoatsProject\\force-app\\main\\default\\staticresources\\fivestar\\rating.js",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 4671,
+            "modifiedTime": 1546969865712,
+            "changeTime": 1546969865712,
+            "contentHash": "8feb1ed5d715fd3db9cf130b40754f585d907105",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\utkina\\Boats\\BoatsProject\\force-app\\main\\default\\staticresources\\fivestar\\stars.svg",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\utkina\\Boats\\BoatsProject\\force-app\\main\\default\\staticresources\\fivestar\\stars.svg",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 1300,
+            "modifiedTime": 1546969865714,
+            "changeTime": 1546969865714,
+            "contentHash": "6c81454a41a53206cac017bfecea4a428d6f3629",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\utkina\\Boats\\BoatsProject\\force-app\\main\\default\\staticresources\\fivestar\\__MACOSX",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\utkina\\Boats\\BoatsProject\\force-app\\main\\default\\staticresources\\fivestar\\__MACOSX",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1546969865723,
+            "changeTime": 1546969865723,
+            "contentHash": "831b06a7c7bec82f2e3898f29c7c06028e91a840",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\utkina\\Boats\\BoatsProject\\force-app\\main\\default\\staticresources\\fivestar.resource-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\utkina\\Boats\\BoatsProject\\force-app\\main\\default\\staticresources\\fivestar.resource-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 209,
+            "modifiedTime": 1546969865684,
+            "changeTime": 1546969865684,
+            "contentHash": "a26956096455c1ad8f2625a5a817d45b35678b07",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\utkina\\Boats\\BoatsProject\\force-app\\main\\default\\staticresources\\Leaflet",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\utkina\\Boats\\BoatsProject\\force-app\\main\\default\\staticresources\\Leaflet",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1546969865647,
+            "changeTime": 1546969865647,
+            "contentHash": "1301e19634332ddca1c19a20b147c59e61c646ff",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\utkina\\Boats\\BoatsProject\\force-app\\main\\default\\staticresources\\Leaflet\\images",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\utkina\\Boats\\BoatsProject\\force-app\\main\\default\\staticresources\\Leaflet\\images",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1546969865638,
+            "changeTime": 1546969865638,
+            "contentHash": "504aa9d4037501ec4d0edf632f7af41532b43659",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\utkina\\Boats\\BoatsProject\\force-app\\main\\default\\staticresources\\Leaflet\\images\\layers-2x.png",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\utkina\\Boats\\BoatsProject\\force-app\\main\\default\\staticresources\\Leaflet\\images\\layers-2x.png",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 1259,
+            "modifiedTime": 1546969865634,
+            "changeTime": 1546969865634,
+            "contentHash": "152a162333e46d24f9d89f566312fc0c64011dee",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\utkina\\Boats\\BoatsProject\\force-app\\main\\default\\staticresources\\Leaflet\\images\\layers.png",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\utkina\\Boats\\BoatsProject\\force-app\\main\\default\\staticresources\\Leaflet\\images\\layers.png",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 696,
+            "modifiedTime": 1546969865635,
+            "changeTime": 1546969865635,
+            "contentHash": "c9e7528e491a39232ba24a2706c6c739d6fb0f06",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\utkina\\Boats\\BoatsProject\\force-app\\main\\default\\staticresources\\Leaflet\\images\\marker-icon-2x.png",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\utkina\\Boats\\BoatsProject\\force-app\\main\\default\\staticresources\\Leaflet\\images\\marker-icon-2x.png",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 2586,
+            "modifiedTime": 1546969865636,
+            "changeTime": 1546969865636,
+            "contentHash": "95a44b9ca71fe03fdf65ddd8eea12f1910f38de2",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\utkina\\Boats\\BoatsProject\\force-app\\main\\default\\staticresources\\Leaflet\\images\\marker-icon.png",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\utkina\\Boats\\BoatsProject\\force-app\\main\\default\\staticresources\\Leaflet\\images\\marker-icon.png",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 1466,
+            "modifiedTime": 1546969865637,
+            "changeTime": 1546969865637,
+            "contentHash": "60a90bcbb2b42b7ddb4556db94eb7c1084b0e5da",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\utkina\\Boats\\BoatsProject\\force-app\\main\\default\\staticresources\\Leaflet\\images\\marker-shadow.png",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\utkina\\Boats\\BoatsProject\\force-app\\main\\default\\staticresources\\Leaflet\\images\\marker-shadow.png",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 618,
+            "modifiedTime": 1546969865638,
+            "changeTime": 1546969865638,
+            "contentHash": "7b6a8df63930381e96604e705168d0527d6b82bc",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\utkina\\Boats\\BoatsProject\\force-app\\main\\default\\staticresources\\Leaflet\\leaflet-src.js",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\utkina\\Boats\\BoatsProject\\force-app\\main\\default\\staticresources\\Leaflet\\leaflet-src.js",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 394376,
+            "modifiedTime": 1546969865640,
+            "changeTime": 1546969865640,
+            "contentHash": "9e70ec9b86a274ccd017405a2fb3512347e4d555",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\utkina\\Boats\\BoatsProject\\force-app\\main\\default\\staticresources\\Leaflet\\leaflet-src.js.map",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\utkina\\Boats\\BoatsProject\\force-app\\main\\default\\staticresources\\Leaflet\\leaflet-src.js.map",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 740233,
+            "modifiedTime": 1546969865642,
+            "changeTime": 1546969865642,
+            "contentHash": "41ecfe3ff81ac90d89af3b9a9b497de91ae231ac",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\utkina\\Boats\\BoatsProject\\force-app\\main\\default\\staticresources\\Leaflet\\leaflet.css",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\utkina\\Boats\\BoatsProject\\force-app\\main\\default\\staticresources\\Leaflet\\leaflet.css",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 14039,
+            "modifiedTime": 1546969865643,
+            "changeTime": 1546969865643,
+            "contentHash": "c78f3436dd39bb361fc9f3f6cb9969edcb0e8906",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\utkina\\Boats\\BoatsProject\\force-app\\main\\default\\staticresources\\Leaflet\\leaflet.js",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\utkina\\Boats\\BoatsProject\\force-app\\main\\default\\staticresources\\Leaflet\\leaflet.js",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 137140,
+            "modifiedTime": 1546969865645,
+            "changeTime": 1546969865645,
+            "contentHash": "5ec5e2b89177fc1668cdacc877dd69df26cde10a",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\utkina\\Boats\\BoatsProject\\force-app\\main\\default\\staticresources\\Leaflet\\leaflet.js.map",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\utkina\\Boats\\BoatsProject\\force-app\\main\\default\\staticresources\\Leaflet\\leaflet.js.map",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 630329,
+            "modifiedTime": 1546969865647,
+            "changeTime": 1546969865647,
+            "contentHash": "7221d66ad79d1c1bf398cf5bf0cca15d24739f9c",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\utkina\\Boats\\BoatsProject\\force-app\\main\\default\\staticresources\\Leaflet\\__MACOSX",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\utkina\\Boats\\BoatsProject\\force-app\\main\\default\\staticresources\\Leaflet\\__MACOSX",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1546969865657,
+            "changeTime": 1546969865657,
+            "contentHash": "4a405352d287bb258aad1f52a0e2f98bd3602500",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\utkina\\Boats\\BoatsProject\\force-app\\main\\default\\staticresources\\Leaflet\\__MACOSX\\images",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\utkina\\Boats\\BoatsProject\\force-app\\main\\default\\staticresources\\Leaflet\\__MACOSX\\images",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1546969865662,
+            "changeTime": 1546969865662,
+            "contentHash": "11ea156bd5bf3b9213264959e8c97d49df5a46cd",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\utkina\\Boats\\BoatsProject\\force-app\\main\\default\\staticresources\\Leaflet.resource-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\utkina\\Boats\\BoatsProject\\force-app\\main\\default\\staticresources\\Leaflet.resource-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 210,
+            "modifiedTime": 1546969865436,
+            "changeTime": 1546969865436,
+            "contentHash": "daa89debd48598fd3138118af8ead370dbb2c259",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\utkina\\Boats\\BoatsProject\\force-app\\main\\default\\tabs",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\utkina\\Boats\\BoatsProject\\force-app\\main\\default\\tabs",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1546969865736,
+            "changeTime": 1546969865736,
+            "contentHash": "4c4de54b71170a5fc11ebe4c39e10dc93f417399",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\utkina\\Boats\\BoatsProject\\force-app\\main\\default\\tabs\\BoatType__c.tab-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\utkina\\Boats\\BoatsProject\\force-app\\main\\default\\tabs\\BoatType__c.tab-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 223,
+            "modifiedTime": 1546969865730,
+            "changeTime": 1546969865730,
+            "contentHash": "76512fe892410b632de766ebaaeaf759dce927a6",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\utkina\\Boats\\BoatsProject\\force-app\\main\\default\\tabs\\Boat__c.tab-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\utkina\\Boats\\BoatsProject\\force-app\\main\\default\\tabs\\Boat__c.tab-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 259,
+            "modifiedTime": 1546969865733,
+            "changeTime": 1546969865733,
+            "contentHash": "a354181366798934697ddeb9155a5bf593902ab2",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\utkina\\Boats\\BoatsProject\\force-app\\main\\default\\tabs\\Friends_with_Boats.tab-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\utkina\\Boats\\BoatsProject\\force-app\\main\\default\\tabs\\Friends_with_Boats.tab-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 330,
+            "modifiedTime": 1546969865736,
+            "changeTime": 1546969865736,
+            "contentHash": "b1db20312c4a3265554e3b5f363cc910d77a7c1c",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\utkina\\Boats\\BoatsProject",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\utkina\\Boats\\BoatsProject",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1546969864768,
+            "changeTime": 1546969864768,
+            "contentHash": "f0104de975dc524ccedf07231c03fbca11880937",
+            "isWorkspace": true,
+            "isArtifactRoot": false
+        }
+    ]
+]

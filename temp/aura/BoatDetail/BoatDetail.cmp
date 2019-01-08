@@ -1,0 +1,48 @@
+<aura:component implements="force:appHostable,flexipage:availableForAllPageTypes" access="global">
+    <aura:attribute name="boat" type="Boat__c"/>
+    <aura:handler event="c:BoatSelected" action="{!c.onBoatSelected}"/>
+    <aura:attribute name="showButton" type="Boolean" default="false"/>
+
+    <lightning:layout verticalAlign="center">
+        <lightning:layoutItem class="slds-p-horizontal--small slds-col slds-size_2-of-3">
+            <lightning:card iconName="utility:anchor">
+                <aura:set attribute="title">{!v.boat.Contact__r.Name}'s Boat</aura:set>
+            </lightning:card>
+        </lightning:layoutItem>
+        <lightning:layoutItem class="slds-p-horizontal--small slds-col slds-size_3-of-3">
+            <aura:if isTrue='{!v.showButton}'>
+            	<lightning:button label="Full Details" onclick="{!c.onFullDetails}"/>
+            </aura:if>
+        </lightning:layoutItem>
+    </lightning:layout>
+    
+    <lightning:layout>
+        <lightning:layoutItem class="slds-p-horizontal--small slds-col slds-size_1-of-2">
+              
+    		<div class="boatproperty">
+        		<span class="label">Boat Name:</span>
+        		<span><ui:outputText value="{!v.boat.Name}"/></span>
+    		</div>
+    		<div class="boatproperty">
+        		<span class="label">Type:</span>
+        		<span><ui:outputText value="{!v.boat.BoatType__r.Name}"/></span>
+    		</div>
+    		<div class="boatproperty">
+        		<span class="label">Length:</span>
+        		<span><ui:outputText value="{!v.boat.Length__c}"/> ft</span>
+    		</div>
+    		<div class="boatproperty">
+        		<span class="label">Est. Price:</span>
+                <span><lightning:formattedNumber value="{!v.boat.Price__c}" currencyCode="USD" style="currency" currencyDisplayAs="symbol"/></span>
+    		</div>
+    		<div class="boatproperty">
+        		<span class="label">Description:</span>
+        		<span><ui:outputRichText class="slds-text-longform" value="{!v.boat.Description__c}"/></span>
+    		</div>
+        </lightning:layoutItem>
+        
+        <lightning:layoutItem class="slds-p-horizontal--small slds-col slds-size_2-of-2" flexibility="grow" size="6" mediumDeviceSize="6" largeDeviceSize="6">   
+        	<div class="imageview" style="{!'background-image:url(' + v.boat.Picture__c + ')'}" />
+        </lightning:layoutItem>
+    </lightning:layout>        
+</aura:component>
